@@ -43,12 +43,12 @@ By default, the application runs on http://localhost:3000/ :
 
 ## How I try to stand out
 
-   ✔️ Production-Ready - Designed to meet real-world application needs.
-   ✔️ Modern Tech Stack - Built using React, Tailwind CSS, MirageJS (for API mocking), and Cypress (for end-to-end testing).
-   ✔️ Skeleton Loading - Enhances UX by displaying skeleton screens during data loading.
-   ✔️ Fully Responsive - Optimized for all devices using Tailwind CSS.
-   ✔️ Comprehensive Testing - Extensive test coverage using Cypress to ensure a robust and reliable codebase.
-   ✔️ Future Backend Integration - Plans to integrate with an Express.js backend for full-stack capabilities.
+      ✔️ Production-Ready - Designed to meet real-world application needs.
+      ✔️ Modern Tech Stack - Built using React, Tailwind CSS, MirageJS (for API mocking), and Cypress (for end-to-end testing).
+      ✔️ Skeleton Loading - Enhances UX by displaying skeleton screens during data loading.
+      ✔️ Fully Responsive - Optimized for all devices using Tailwind CSS.
+      ✔️ Comprehensive Testing - Extensive test coverage using Cypress to ensure a robust and reliable codebase.
+      ✔️ Future Backend Integration - Plans to integrate with an Express.js backend for full-stack capabilities.
 
 ## Future Scope
 
